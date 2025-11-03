@@ -15,7 +15,7 @@ wandb
 mujoco>=2.3.7
 scikit-image
 gym
-git+https://github.com/ZhengyiLuo/smplx.git@master
+git+https://github.com/toko-synria/smplx.git@master
 lxml
 autograd
 scikit-learn
